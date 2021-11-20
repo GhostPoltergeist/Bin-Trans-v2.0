@@ -14,4 +14,12 @@
   <img src="https://github.com/GhostPoltergeist/Bin-Trans-v2.0/blob/main/logo.jpg" width="200"/>
 </a></p>
   
+# ENCRYPTION WITH A PASSWORD OR "KEY":
+# --> BASIC ENCRYPTION PROGRAM <--
+ofcourse Encrypted data can be hacked, When hackers do not have access to the decryption key, it also requires incredibly powerful software to decode any data, while there has been improvement in software development used for these purposes, and there are some hackers out there that have that skill. 
+but still encryption is a best method of securing digital data using one or more mathematical procedures, as well as a password or "key" to decrypt the data. (Data to help avoid identity theft and fraud.)
+
+This Basic C Program is used for vulnerability scanning; however, you can copy the output to the "Terminal" and use it for school projects, secret diaries, and cryptographic schemes.
+
+By the use of "INTEGER" BinaryLength, TextLength the maximum data that a program can handle is only [100] characters/strings.
   
