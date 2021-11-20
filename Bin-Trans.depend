@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1636985108 source:c:\users\~zxz~\desktop\int-iden project\bin-trans\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1637020565 source:c:\users\~zxz~\desktop\projects\bin-trans project\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+
+1637393051 source:c:\users\~zxz~\desktop\projects\bin-trans v2.0\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	<windows.h>
+
