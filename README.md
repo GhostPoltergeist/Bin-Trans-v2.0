@@ -9,6 +9,9 @@
 [![Gmail Badge](https://img.shields.io/badge/-Edselcabaluna21@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:Edselcabaluna21@gmail.com)](mailto:Edselcabaluna21@gmail.com)
 
 
-Binary Translator Version 2.0 
+# Binary Translator Version 2.0 
+<p align="center">
+  <img src="https://github.com/GhostPoltergeist/Bin-Trans-v2.0/blob/main/logo.jpg" width="500" height="500"/>
+</a></p>
   
   
