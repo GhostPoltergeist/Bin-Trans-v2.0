@@ -11,7 +11,7 @@
 
 # Binary Translator Version 2.0 
 <p align="center">
-  <img src="https://github.com/GhostPoltergeist/Bin-Trans-v2.0/blob/main/logo.jpg" width="500" height="200"/>
+  <img src="https://github.com/GhostPoltergeist/Bin-Trans-v2.0/blob/main/logo.jpg" width="500" height="500"/>
 </a></p>
   
   
